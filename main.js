@@ -1,3 +1,4 @@
+"use strict"
 /*
 =======================================================
 ** Week 2 - Project 1 **
@@ -5,8 +6,8 @@
 Below are a number of problems for you to solve
 using JS. The JS code can be written below each
 problem and the results can be displayed into the
-HTML page. In some cases, you may want to check 
-within the console for verification of the array. 
+HTML page. In some cases, you may want to check
+within the console for verification of the array.
 
 console.log();
 
@@ -188,11 +189,11 @@ var sortingNumbers = [2, 5, 98, 55, 77, 300];
 
 /* SANDBOX TRACK
 
-Solving all of these problems is a great step in the right direction, 
-but the next step is coming up with your own arrangements to solve 
+Solving all of these problems is a great step in the right direction,
+but the next step is coming up with your own arrangements to solve
 new problems. Practice creating your own problems to solve and their solutions -
-you can even challenge your classmates! 
- 
-Also, consider how you can add/remove CSS styles to create added presentation with the results. 
+you can even challenge your classmates!
+
+Also, consider how you can add/remove CSS styles to create added presentation with the results.
 
 */
